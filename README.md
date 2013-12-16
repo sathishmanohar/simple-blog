@@ -54,7 +54,7 @@ A set of links with cover photo and list description, individual links have all 
 
 # User Flow
 
-## Navigation
+### Navigation
 * Article list
 * Category list
 * Article list by type
@@ -63,6 +63,6 @@ A set of links with cover photo and list description, individual links have all 
 * Article Page
 * Archives by date
 
-### Good to have
+#### Good to have
 * Published revision history
 * Author articles List if multiple authors
